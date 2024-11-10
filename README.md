@@ -1,4 +1,4 @@
-# Portfolio Lab: AWS Cloud Security — Reconnaissance and Mitigation
+# AWS Cloud Security — Reconnaissance and Mitigation
 
 ## Objective
 This lab demonstrates my ability to identify and mitigate vulnerabilities in a cloud environment using AWS and Kali Linux. I simulated a misconfigured AWS environment, conducted reconnaissance to exploit its vulnerabilities, and applied security measures to secure the system.
